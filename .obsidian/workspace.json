@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "de7c56e038f86a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "935c40b510bac972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a331c1904cd26cf1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26f35c75d754cc3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a994cd0ff8fdb4f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57008f6061c0673",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ef854700935107fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1f839b774042d28f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd2c169121ef8237",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e7695397926adc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8b0585a87affaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "e817c688c20423fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e40cea17d7768f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "45e4517b7455d6fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "3a9cfeb2657450fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b57008f6061c0673",
+  "lastOpenFiles": [
+    "📝 Mis Apuntes/6-MAPS Y DICCIONARIOS.md",
+    "📝 Mis Apuntes/7-BUCLE FOR Y WHILE.md",
+    "📝 Mis Apuntes/8-NULL SAFETY.md",
+    "📝 Mis Apuntes/9-FUNCIONES.md",
+    "📝 Mis Apuntes/10-CLASES.md",
+    "📝 Mis Apuntes/11-ENUM.md",
+    "📝 Mis Apuntes/12-CLASES ANIDADAS.md",
+    "📝 Mis Apuntes/13-HERENCIA DE CLASES.md",
+    "📝 Mis Apuntes/14-INTERFACES.md",
+    "📝 Mis Apuntes/15-MODIFICADORES DE VISIBILIDAD.md",
+    "📝 Mis Apuntes/16-DATA CLASSES.md",
+    "📝 Mis Apuntes/17-TYPE ALIASES.md",
+    "📝 Mis Apuntes/18-DESTRUCTING DECLARATIONS.md",
+    "📝 Mis Apuntes/19-EXTENSIONES.md",
+    "📝 Mis Apuntes/20-LAMBDAS.md",
+    "📝 Mis Apuntes/21-PRINCIPIOS SOLID.md",
+    "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
+    "📝 Mis Apuntes/22-KMM.md",
+    "📝 Mis Apuntes/5-ARRAYS Y ARREGLOS.md",
+    "📝 Mis Apuntes/4-SENTENCIA WHEN.md",
+    "📝 Mis Apuntes/3-SENTENCIA IF.md",
+    "📝 Mis Apuntes/2-TIPOS DE DATOS.md",
+    "📝 Mis Apuntes/1-VARIABLES.md",
+    "📝 Mis Apuntes",
+    "Bienvenido.md",
+    "2026-06-26.md"
+  ]
+}

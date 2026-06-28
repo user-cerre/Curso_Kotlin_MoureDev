@@ -1,0 +1,32 @@
+# 🚀 Mi Progreso - Curso Kotlin desde Cero (MoureDev)
+
+## 📅 Plan Semanal (Empezando Mañana por la Mañana)
+- [ ] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
+  - [ ] Lección 1: Variables y Constantes
+  - [ ] Lección 2: Tipos de Datos
+  - [ ] Lección 3: Condicionales (If)
+  - [ ] Lección 4: Estructura When
+- [ ] **Día 2: Colecciones y Bucles** (Vídeos 5 al 8)
+  - [ ] Lección 5: Arrays / Arreglos
+  - [ ] Lección 6: Listas
+  - [ ] Lección 7: Bucles For
+  - [ ] Lección 8: Bucles While y Do-While
+- [ ] **Día 3: Seguridad y Funciones** (Vídeos 9 al 12)
+  - [ ] Lección 9: Null Safety (Seguridad contra Nulos)
+  - [ ] Lección 10: Funciones Básicas
+  - [ ] Lección 11: Introducción a Clases (POO)
+  - [ ] Lección 12: Propiedades de Clases
+- [ ] **Día 4: Programación Orientada a Objetos** (Vídeos 13 al 16)
+  - [ ] Lección 13: Herencia
+  - [ ] Lección 14: Interfaces
+  - [ ] Lección 15: Data Classes
+  - [ ] Lección 16: Enum Classes
+- [ ] **Día 5: Conceptos Avanzados** (Vídeos 17 al 20)
+  - [ ] Lección 17: Funciones de Extensión
+  - [ ] Lección 18: Lambdas y Funciones de Orden Superior
+  - [ ] Lección 19: Modificadores de Visibilidad
+  - [ ] Lección 20: Clases Anidadas e Internas (Nested & Inner)
+- [ ] **Día 6: Cierre del Curso** (Vídeos 21 al 23)
+  - [ ] Lección 21: Modificadores Avanzados
+  - [ ] Lección 22: Buenas Prácticas y Próximos Pasos
+  - [ ] Lección 23: Conclusión del Curso
