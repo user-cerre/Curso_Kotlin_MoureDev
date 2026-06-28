@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "935c40b510bac972",
+        "id": "3c62328092559c03",
         "type": "tabs",
         "children": [
           {
-            "id": "a331c1904cd26cf1",
+            "id": "49b1e6cb0273e98f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a331c1904cd26cf1",
+  "active": "49b1e6cb0273e98f",
   "lastOpenFiles": [
-    "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
     "📝 Mis Apuntes/1-VARIABLES.md",
+    "conflict-files-obsidian-git.md",
+    "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
     "2026-06-26.md",
     "📝 Mis Apuntes/6-MAPS Y DICCIONARIOS.md",
     "📝 Mis Apuntes/7-BUCLE FOR Y WHILE.md",
