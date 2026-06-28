@@ -3,7 +3,7 @@
 ## 📅 Plan Semanal (Empezando Mañana por la Mañana)
 - [ ] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
   - [x] [Lección 1: Variables y Constantes](./1-VARIABLES.md)
-  - [ ] [Lección 2: Tipos de Datos](./2-TIPOS_DE_DATOS.md)
+  - [x] [Lección 2: Tipos de Datos](./2-TIPOS_DE_DATOS.md)
   - [ ] Lección 3: Condicionales (If)
   - [ ] Lección 4: Estructura When
 - [ ] **Día 2: Colecciones y Bucles** (Vídeos 5 al 8)

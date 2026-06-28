@@ -20,23 +20,28 @@
               "icon": "lucide-file",
               "title": "2-TIPOS_DE_DATOS"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "71f12fc7a16dba84",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8e85d4f8c01d1455",
+            "id": "a73a9e1457a6db44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Mis Apuntes/21-PRINCIPIOS_SOLID.md",
+                "file": "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21-PRINCIPIOS_SOLID"
+              "title": "📅 CALENDARIO DE VÍDEOS DEL CURSO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Mis Apuntes/21-PRINCIPIOS_SOLID.md",
+                "file": "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 21-PRINCIPIOS_SOLID"
+              "title": "Esquema de 📅 CALENDARIO DE VÍDEOS DEL CURSO"
             }
           },
           {
@@ -210,6 +215,9 @@
   },
   "active": "51fb887a8e841e3e",
   "lastOpenFiles": [
+    "📝 Mis Apuntes/2-TIPOS_DE_DATOS.md",
+    "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
+    "📝 Mis Apuntes/21-PRINCIPIOS_SOLID.md",
     "📝 Mis Apuntes/20-LAMBDAS.md",
     "📝 Mis Apuntes/19-EXTENSIONES.md",
     "📝 Mis Apuntes/18-DESTRUCTING_DECLARATIONS.md",
@@ -225,15 +233,12 @@
     "📝 Mis Apuntes/5-ARRAYS_Y_ARREGLOS.md",
     "📝 Mis Apuntes/4-SENTENCIA_WHEN.md",
     "📝 Mis Apuntes/3-SENTENCIA_IF.md",
-    "📝 Mis Apuntes/2-TIPOS_DE_DATOS.md",
-    "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
     "📝 Mis Apuntes/1-VARIABLES.md",
     "conflict-files-obsidian-git.md",
     "2026-06-26.md",
     "📝 Mis Apuntes/10-CLASES.md",
     "📝 Mis Apuntes/11-ENUM.md",
     "📝 Mis Apuntes/14-INTERFACES.md",
-    "📝 Mis Apuntes/21-PRINCIPIOS_SOLID.md",
     "📝 Mis Apuntes/22-KMM.md",
     "📝 Mis Apuntes",
     "Bienvenido.md"
