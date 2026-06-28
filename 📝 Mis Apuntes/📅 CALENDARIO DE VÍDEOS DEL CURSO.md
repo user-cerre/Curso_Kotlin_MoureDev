@@ -1,7 +1,7 @@
 # 🚀 Mi Progreso - Curso Kotlin desde Cero (MoureDev)
 
 ## 📅 Plan Semanal (Empezando Mañana por la Mañana)
-- [ ] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
+- [x] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
   - [ ] Lección 1: Variables y Constantes
   - [ ] Lección 2: Tipos de Datos
   - [ ] Lección 3: Condicionales (If)
