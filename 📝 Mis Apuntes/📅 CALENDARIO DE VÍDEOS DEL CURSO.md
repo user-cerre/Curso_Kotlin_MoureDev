@@ -4,8 +4,8 @@
 - [ ] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
   - [x] [Lección 1: Variables y Constantes](./1-VARIABLES.md)
   - [x] [Lección 2: Tipos de Datos](./2-TIPOS_DE_DATOS.md)
-  - [ ] Lección 3: Condicionales (If)
-  - [ ] Lección 4: Estructura When
+  - [x] [Lección 3: Condicionales (If)](3-SENTENCIA_IF)
+  - [x] [Lección 4: Estructura When](4-SENTENCIA_WHEN)
 - [ ] **Día 2: Colecciones y Bucles** (Vídeos 5 al 8)
   - [ ] Lección 5: Arrays / Arreglos
   - [ ] Lección 6: Listas

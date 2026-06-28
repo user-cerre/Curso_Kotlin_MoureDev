@@ -6,6 +6,7 @@
       {
         "id": "e97762aa2997ef17",
         "type": "tabs",
+        "dimension": 82.92838874680307,
         "children": [
           {
             "id": "545bccd8b564d99d",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Mis Apuntes/2-TIPOS_DE_DATOS.md",
+                "file": "📝 Mis Apuntes/4-SENTENCIA_WHEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-TIPOS_DE_DATOS"
+              "title": "4-SENTENCIA_WHEN"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "71f12fc7a16dba84",
         "type": "tabs",
+        "dimension": 17.07161125319693,
         "children": [
           {
             "id": "a73a9e1457a6db44",
@@ -174,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
+                "file": "📝 Mis Apuntes/3-SENTENCIA_IF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 📅 CALENDARIO DE VÍDEOS DEL CURSO"
+              "title": "Esquema de 3-SENTENCIA_IF"
             }
           },
           {
@@ -213,10 +215,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51fb887a8e841e3e",
+  "active": "545bccd8b564d99d",
   "lastOpenFiles": [
-    "📝 Mis Apuntes/2-TIPOS_DE_DATOS.md",
     "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
+    "📝 Mis Apuntes/4-SENTENCIA_WHEN.md",
+    "📝 Mis Apuntes/3-SENTENCIA_IF.md",
+    "📝 Mis Apuntes/2-TIPOS_DE_DATOS.md",
+    "📝 Mis Apuntes/12-CLASES_ANIDADAS.md",
     "📝 Mis Apuntes/21-PRINCIPIOS_SOLID.md",
     "📝 Mis Apuntes/20-LAMBDAS.md",
     "📝 Mis Apuntes/19-EXTENSIONES.md",
@@ -225,14 +230,11 @@
     "📝 Mis Apuntes/16-DATA_CLASSES.md",
     "📝 Mis Apuntes/15-MODIFICADORES_DE_VISIBILIDAD.md",
     "📝 Mis Apuntes/13-HERENCIA_DE_CLASES.md",
-    "📝 Mis Apuntes/12-CLASES_ANIDADAS.md",
     "📝 Mis Apuntes/9-FUNCIONES.md",
     "📝 Mis Apuntes/8-NULL_SAFETY.md",
     "📝 Mis Apuntes/7-BUCLE_FOR_Y_WHILE.md",
     "📝 Mis Apuntes/6-MAPS_Y_DICCIONARIOS.md",
     "📝 Mis Apuntes/5-ARRAYS_Y_ARREGLOS.md",
-    "📝 Mis Apuntes/4-SENTENCIA_WHEN.md",
-    "📝 Mis Apuntes/3-SENTENCIA_IF.md",
     "📝 Mis Apuntes/1-VARIABLES.md",
     "conflict-files-obsidian-git.md",
     "2026-06-26.md",
