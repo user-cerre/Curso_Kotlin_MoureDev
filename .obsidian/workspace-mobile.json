@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
+                "file": "📝 Mis Apuntes/4-SENTENCIA_WHEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 CALENDARIO DE VÍDEOS DEL CURSO"
+              "title": "4-SENTENCIA_WHEN"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "e64ea6d5b7dc3150",
   "lastOpenFiles": [
-    "📝 Mis Apuntes/10-CLASES.md",
     "📝 Mis Apuntes/📅 CALENDARIO DE VÍDEOS DEL CURSO.md",
+    "📝 Mis Apuntes/10-CLASES.md",
     "📝 Mis Apuntes/9-FUNCIONES.md",
     "📝 Mis Apuntes/8-NULL_SAFETY.md",
     "📝 Mis Apuntes/7-BUCLE_FOR_Y_WHILE.md",
