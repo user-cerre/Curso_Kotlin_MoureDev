@@ -1,21 +1,21 @@
 # 🚀 Mi Progreso - Curso Kotlin desde Cero (MoureDev)
 
 ## 📅 Plan Semanal (Empezando Mañana por la Mañana)
-- [ ] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
+- [x] **Día 1: Fundamentos Iniciales** (Vídeos 1 al 4)
   - [x] [Lección 1: Variables y Constantes](./1-VARIABLES.md)
   - [x] [Lección 2: Tipos de Datos](./2-TIPOS_DE_DATOS.md)
   - [x] [Lección 3: Condicionales (If)](3-SENTENCIA_IF)
   - [x] [Lección 4: Estructura When](4-SENTENCIA_WHEN)
 - [ ] **Día 2: Colecciones y Bucles** (Vídeos 5 al 8)
-  - [ ] Lección 5: Arrays / Arreglos
-  - [ ] Lección 6: Listas
-  - [ ] Lección 7: Bucles For
-  - [ ] Lección 8: Bucles While y Do-While
+  - [ ] [Lección 5: Arrays / Arreglos](5-ARRAYS_Y_ARREGLOS)
+  - [ ] [Lección 6: Listas](6-MAPS_Y_DICCIONARIOS)
+  - [ ] [Lección 7: Bucles For](7-BUCLE_FOR_Y_WHILE)
+  - [ ] [Lección 8: Bucles While y Do-While](7-BUCLE_FOR_Y_WHILE)
 - [ ] **Día 3: Seguridad y Funciones** (Vídeos 9 al 12)
-  - [ ] Lección 9: Null Safety (Seguridad contra Nulos)
-  - [ ] Lección 10: Funciones Básicas
-  - [ ] Lección 11: Introducción a Clases (POO)
-  - [ ] Lección 12: Propiedades de Clases
+  - [ ] [Lección 9: Null Safety (Seguridad contra Nulos)](8-NULL_SAFETY)
+  - [ ] [Lección 10: Funciones Básicas](9-FUNCIONES)
+  - [ ] [Lección 11: Introducción a Clases (POO)](10-CLASES)
+  - [ ] [Lección 12: Propiedades de Clases](10-CLASES)
 - [ ] **Día 4: Programación Orientada a Objetos** (Vídeos 13 al 16)
   - [ ] Lección 13: Herencia
   - [ ] Lección 14: Interfaces
